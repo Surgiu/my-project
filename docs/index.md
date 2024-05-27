@@ -1,17 +1,18 @@
-# Welcome to TLSS(2024Spring)
+# Welcome to PCTLSS(2024Spring)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a documentation of the project PCTLSS(2024Spring), which is a 3D point cloud semantic segmentation project. The project is based on [AUDA](https://www.elsevier.com/locate/isprsjprs).
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Group Members
 
-## Project layout
+- [Q. Han](https://github.com/Surgiu)
+- [X. Hou]
+- [Y. Ouyang]
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Professors
+
+- [Prof. K. Ding](https://faculty.sustech.edu.cn/?tagid=dingkm&iscss=1&snapid=1&orderby=date&go=1)
+
+## Useful Links
+
+- code repository: [PCTLSS]()

@@ -1,8 +1,11 @@
 site_name: Transfer Learning for 3D Point Cloud Semantic Segmentation
 nav:
   - Home: index.md
-  - Transfer learning: tl.md
-   - Introduction to transfer learning: tlintro.md
+  - Foundations: tl.md
+  - Previous Works: tlintro.md
+  - AUDA Framwork: ssintro.md
+  - Experiments: experiments.md
+  - Implementing Details: implement.md
   - About: about.md
 theme: readthedocs
 
