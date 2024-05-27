@@ -1,0 +1,8 @@
+site_name: Transfer Learning for 3D Point Cloud Semantic Segmentation
+nav:
+  - Home: index.md
+  - Transfer learning: tl.md
+   - Introduction to transfer learning: tlintro.md
+  - About: about.md
+theme: readthedocs
+
